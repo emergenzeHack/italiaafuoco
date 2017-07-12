@@ -5,7 +5,7 @@ cartella="."
 dataurlONA="https://api.ona.io/api/v1/data/220242"
 usernameONA="emergenzehack"
 passwordONA="emergenzehack"
-tokenGithub="bad86be9f1003ceec7e6967073b3b84eea6ce4de"
+tokenGithub=""
 
 
 # verifico la risposta del server
@@ -14,7 +14,7 @@ code=$(curl -s -o /dev/null -w "%{http_code}" -X GET $dataurlONA -u $usernameONA
 if [ $code -eq 200 ]
 then
 
-    #creo un file per fare il confronto tra i nuovi dati e i vecchi, sarà vuoto al primo download
+    #creo un file per fare il confronto tra i nuovi dati e i vecchi, vuoto al primo download
     file="$cartella/compare.csv"
     if [ -f "$file" ]
         then
