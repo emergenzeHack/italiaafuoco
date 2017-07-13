@@ -1,6 +1,8 @@
 #!/bin/bash
 
 nomeprogetto="italiaafuoco"
+
+# impostare path assoluto della cartella di lavoro
 cartella=/var/nadir/andrea/script/progetti/emergenzaIncendi
 source "$cartella"/anagrafica.txt
 
@@ -26,10 +28,10 @@ then
     # scarico il file
     curl -X GET $dataurlONA -u $usernameONA:$passwordONA | jq . > "$cartella"/data/01"$nomeprogetto".json
 
-# modifico il json
+	# modifico il json
 	cat "$cartella"/data/01$nomeprogetto.json | jq '[.[]|{"instanceID":."meta/instanceID","_uuid":."_uuid","_submission_time":."_submission_time","_attachments":("https://api.ona.io"+._attachments[0].download_url),"id":."_id","nota":."emergenza_widgets/nota","indirizzo":."emergenza_widgets/indirizzo","nome":."anagrafica_widgets/nome","email":."anagrafica_widgets/email","cellulare":."anagrafica_widgets/cellulare","lat":(if (."emergenza_widgets/posizione"  == null) then null else ."emergenza_widgets/posizione"|split(" ")[0] end),"lon":(if (."emergenza_widgets/posizione"  == null) then null else ."emergenza_widgets/posizione"|split(" ")[1] end)}]' > "$cartella"/data/02"$nomeprogetto".json    
 
- # creo CSV
+	# creo CSV
 	cat "$cartella"/data/02"$nomeprogetto".json | in2csv -f json | sed 's/https:\/\/api.ona.io,/,/g'> "$cartella"/data/incendi.csv 
 
 
