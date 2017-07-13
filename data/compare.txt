@@ -1,0 +1,2 @@
+instanceID,_uuid,_submission_time,_attachments,id,nota,indirizzo,nome,email,cellulare,lat,lon
+uuid:90416a55-3a4a-481a-be09-05235cc2891d,90416a55-3a4a-481a-be09-05235cc2891d,2017-07-13T09:31:06,https://api.ona.io/api/v1/files/4776249?filename=emergenzehack/attachments/vlcsnap-error911-11_30_34.png,10,Una prova,"Via da qui, 12",Andy,Bandy,+39091505050,38.128734,13.330387
