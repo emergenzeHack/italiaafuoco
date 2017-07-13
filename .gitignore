@@ -10,3 +10,5 @@ node_modules
 package.json
 vendor
 *.swp
+# ignoro l'anagrafica
+anagrafica.txt
