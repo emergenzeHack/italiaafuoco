@@ -33,10 +33,10 @@ navbar-links:
 #  Raccolte:
 #    - Raccolte Fondi: "fondi/"
 #    - Acquisti Solidali: "acquistisolidali/"
-#  Aggiornamenti:
+Aggiornamenti:
 #    - News: "news/"
 #    - Eventi: "eventi/"
-#    - Blog: "post/"
+  - Blog: "post/"
 #    - Storie: "storie/"
 #    - Vittime: "vittime/"
 #    - Bufale: "bufale/"
