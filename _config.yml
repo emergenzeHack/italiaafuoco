@@ -45,8 +45,8 @@ navbar-links:
 #    - Dashboard: "dashboard/"
 #    - Opendata: "opendata/"
 #    - Link e contatti utili: "link_utili/"
-#  Il Progetto:
-#   - About: "about/"
+Il Progetto:
+  - About: "about/"
 #   - Contribuisci: 'https://github.com/emergenzeHack/terremotocentro/wiki" target="_blank'
 #   - Press: "press/"
 #   - Canali di Comunicazione: "canali/"
@@ -62,8 +62,8 @@ avatar: /images/IMG_5039.PNG
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: TerremotoCentroItalia
-  #email: "youremail@domain.com"
+  name: ItaliaAFuoco
+  email: "emergenzehack@gmail.com"
   facebook: groups/1985622574797139/  # eg. daattali
   github: emergenzeHack/italiaafuoco    # eg. daattali
   twitter: italiaafuoco   # eg. daattali
