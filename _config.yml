@@ -21,7 +21,7 @@ description: Un progetto per raccogliere le segnalazioni di incendi in Italia
 # --- Navigation bar options --- #
 # List of links in the navigation bar
 navbar-links:
-  Segnala: "enketo.ona.io/x/#YVUh"
+  Segnala: "http://enketo.ona.io/x/#YVUh"
 #  Richieste:
 #    - Fabbisogni: "fabbisogni/"
 #    - Cerco Lavoro: "cerco_lavoro/"
