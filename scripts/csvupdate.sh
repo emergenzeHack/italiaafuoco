@@ -4,7 +4,7 @@ git clean -fxd
 git reset --hard HEAD
 git pull
 
-python scripts/github2CSV.py
+python scripts/github2CSV.py _data/issues.csv _data/issuesjson.json _data/issuesgeojson.json
 
 git add _data
 #git add vittime.md
