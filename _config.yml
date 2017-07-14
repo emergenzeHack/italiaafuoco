@@ -16,12 +16,12 @@ url: "http://www.italiaafuoco.matteofortini.it"
 title: Italia a Fuoco
 
 # Short description of your site
-description: Un progetto per raccogliere le segnalazioni di incendi nell'estate del 2017
+description: Un progetto per raccogliere le segnalazioni di incendi in Italia
 
 # --- Navigation bar options --- #
 # List of links in the navigation bar
 navbar-links:
-  Segnala: "segnala/"
+  Segnala: "enketo.ona.io/x/#YVUh"
 #  Richieste:
 #    - Fabbisogni: "fabbisogni/"
 #    - Cerco Lavoro: "cerco_lavoro/"
@@ -55,7 +55,7 @@ navbar-links:
 # Remove this parameter if you don't want an image in the navbar
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: /images/noun_8681.png
+avatar: /images/IMG_5039.PNG
 
 # --- Footer options --- #
 
@@ -64,24 +64,24 @@ avatar: /images/noun_8681.png
 author:
   name: TerremotoCentroItalia
   #email: "youremail@domain.com"
-  facebook: groups/1758670357733881/  # eg. daattali
-  github: emergenzeHack/terremotocentro    # eg. daattali
-  twitter: terremotocentro   # eg. daattali
+  facebook: groups/1985622574797139/  # eg. daattali
+  github: emergenzeHack/italiaafuoco    # eg. daattali
+  twitter: italiaafuoco   # eg. daattali
   linkedin:   # eg. daattali
   xing:       # eg. daattali
   stackoverflow:   # eg. "3943160/daattali"
-  instagram: terremotocentro # eg. daattali
-  youtube: yourlink # eg. user/daattali or channel/daattali
-  rss: https://emergenzehack.github.io/terremotocentro/feed.xml
-  telegram: https://telegram.me/terremotocentroitalia
-  medium: https://medium.com/@terremotocentroitalia
-  archiveorg: https://archive.org/details/@terremotocentroita
-  messenger: messenger
+  instagram: # eg. daattali
+  youtube: # eg. user/daattali or channel/daattali
+  rss:
+  telegram: https://t.me/italiaafuoco
+  medium: https://medium.com/open-data-stories/un-servizio-di-informazione-per-gli-incendi-2d8c2d3cc02b
+  archiveorg:
+  messenger:
 
 # Select which links to show in the footer
 footer-links-active:
-  androidapp: true
-  rss: true
+  androidapp: false
+  rss: false
   facebook: true
   email: false
   twitter: true
@@ -89,12 +89,12 @@ footer-links-active:
   linkedin: false
   xing: false
   stackoverflow: false
-  instagram: true
+  instagram: false
   youtube: false
   telegram: true
   medium: true
-  archiveorg: true
-  messenger: true
+  archiveorg: false
+  messenger: false
 
 # Select which share links to show in posts
 share-links-active:
@@ -110,10 +110,10 @@ share-links-active:
 # --- Misc --- #
 
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-disqus: "terremotocentroitalia"
+disqus: "italiaafuoco"
 
 # Fill in your Google Analytics ID to track your website using GA
-google_analytics: "UA-47474515-3"
+google_analytics: "UA-47474515-4"
 
 jekyll-crosseverything_to_medium:
   enabled: false
