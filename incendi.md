@@ -24,6 +24,7 @@ Vedi <a href="https://medium.com/@aborruso/22f07afad899">qui</a> il post di Andr
 
 
 <div class="row">
+<div class="col-md-6 col-md-offset-3">
 <table class="table table-striped">
 <thead><tr><th>Comune</th><th>Data</th><th>Area</th></tr></thead>
 <tbody>
@@ -32,6 +33,7 @@ Vedi <a href="https://medium.com/@aborruso/22f07afad899">qui</a> il post di Andr
 {% endfor %}
 </tbody>
 </table>
+</div>
 </div>
 
 <script>
