@@ -8,7 +8,7 @@
 #baseurl: "http://terremotocentroitalia.info"
 
 #baseurl: "https://github.com/emergenzeha/terremotocentro"
-url: "http://www.italiaafuoco.matteofortini.it"
+url: "http://www.italiaafuoco.info"
 
 # Of course don't forget to change the username and projectname to YOUR username and project
 
@@ -22,6 +22,7 @@ description: Progetto per raccogliere segnalazioni sugli incendi in Italia
 # List of links in the navigation bar
 navbar-links:
   Segnala: "http://enketo.ona.io/x/#YVUh"
+  Mappa: http://italiaafuoco.info/2017-07-16-mappa-notizie/
 #  Richieste:
 #    - Fabbisogni: "fabbisogni/"
 #    - Cerco Lavoro: "cerco_lavoro/"
