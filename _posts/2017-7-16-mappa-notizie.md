@@ -1,6 +1,6 @@
 ---
 layout: post
-title: La mappa delle news sugli incendi
+title: La mappa delle news sugli incendi (ultima settimana)
 categories: blog
 ---
 
