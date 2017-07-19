@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Protezione Civile - La flotta aerea anticendio dello Stato 2017
+title: Protezione Civile - La flotta aerea anticendio dello Stato - 2017
 categories: blog
 ---
 
