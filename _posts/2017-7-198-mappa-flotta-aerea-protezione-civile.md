@@ -18,7 +18,3 @@ Telefono: **06 68202286**
 <iframe width="100%" height="900px" frameBorder="0" src="https://umap.openstreetmap.fr/it/map/protezione-civile-campagna-antincendio-boschivo-20_159107?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=caption&captionBar=false"></iframe><p><a href="http://umap.openstreetmap.fr/it/map/protezione-civile-campagna-antincendio-boschivo-20_159107">Visualizza a schermo intero</a></p>
 
 Fonte dati: [Protezione Civile Campagna Antincendio Boschivo 2017](http://www.protezionecivile.gov.it/jcms/it/view_dossier.wp?contentId=DOS64456) – [Schieramento flotta aerea statale aib 2017](http://www.protezionecivile.gov.it/jcms/it/view_cng.wp?contentId=CNG64468) – [Disponibilità elicotteri AIB regionali](http://www.protezionecivile.gov.it/jcms/it/view_cng.wp?contentId=CNG64467)
-
-
-
-
