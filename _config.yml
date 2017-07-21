@@ -22,7 +22,7 @@ description: Progetto per raccogliere segnalazioni sugli incendi in Italia
 # List of links in the navigation bar
 navbar-links:
   Segnala: "http://enketo.ona.io/x/#YVUh"
-  Mappa: http://italiaafuoco.info/2017-07-18-new-mappa-notizie/
+  Mappe: mappe/
 #  Richieste:
 #    - Fabbisogni: "fabbisogni/"
 #    - Cerco Lavoro: "cerco_lavoro/"

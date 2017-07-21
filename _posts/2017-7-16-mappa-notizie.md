@@ -1,7 +1,7 @@
 ---
 layout: post
 title: La mappa delle news sugli incendi (ultima settimana)
-categories: blog
+categories: [blog, mappe]
 ---
 
 Di seguito la mappa delle notizie relative agli incendi avvenuti nel nostro paese negli ultimi sette giorni. Ogni incendio riporta un link alla notizia che lo descrive. I dati sono concessi dal progetto [EFFIS](http://effis.jrc.ec.europa.eu/applications/fire-news/) segnalato da [Andrea Borruso](https://twitter.com/aborruso).

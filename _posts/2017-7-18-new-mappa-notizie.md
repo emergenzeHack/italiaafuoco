@@ -1,7 +1,7 @@
 ---
 layout: post
 title: La mappa delle news sugli incendi
-categories: blog
+categories: [blog, mappe]
 ---
 
 Di seguito la mappa delle notizie relative agli incendi avvenuti nel nostro paese nel cosro del 2017.<br>I marker di colore "**nero**" localizzano gli incendi registrati negli ultimi sette giorni, i marker di colore "**bianco**" localizzano tutte le segnalazioni nemo recenti.<br>Ogni marker sulla mappa riporta la località, il giorno della segnalazione ed un link alla notizia che lo descrive.<br>I dati sono concessi dal progetto [EFFIS - European Forest Fire Information System ](http://effis.jrc.ec.europa.eu/applications/fire-news/) segnalato da [Andrea Borruso](https://twitter.com/aborruso).
