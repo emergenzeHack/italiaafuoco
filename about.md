@@ -19,7 +19,7 @@ Il progetto, laddove lo si ritenga utile, è usabile da organizzazioni, associaz
 L'idea è di [Matteo Tempestini](https://twitter.com/il_tempe), [Matteo Fortini](https://twitter.com/matt_fortini) e [Andrea Borruso](https://twitter.com/aborruso) e nasce a seguito di maturata esperienza di hacking civico, ma il sostegno è di chiunque vuole darlo (privati, associazioni, imprese, istituzioni) purché l'iniziativa non sia strumentalizzata per secondi fini e di questo chi ha ideato il progetto cerca di farsi garante. Se vuoi collaborare indica [con un issue in questo repository](https://github.com/emergenzeHack/italiaafuoco/issues/new) chi sei e perchè vorresti collaborare, ti aspettiamo!
 
 
-### Tecologie
+### Tecnologie
 
 - [Bootstrap](http://getbootstrap.com/)
 - [Glyphicons](http://glyphicons.com)
