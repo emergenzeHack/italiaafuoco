@@ -35,5 +35,3 @@ Data            |Fonte                   |Titolo       |Fonte
 :---------------|:-----------------------|:------------|:--------------
 {% for member in site.data.press %} {{member.data | date: '%d/%m/%Y'}} | {{member.dove}} | {{member.titolo}} | [Fonte]({{member.link}})
 {% endfor %}
-
-</div>
