@@ -1,7 +1,2 @@
-<<<<<<< HEAD
 Nome,Dataset,Licenza,Linklicenza,Fonte,Formato,Utilizzo,Note
 Incendi 2009-maggio2016 per regione dal CFS,https://raw.githubusercontent.com/emergenzeHack/italiaafuoco/master/_data/Incendi_2009_maggio_2016_per_regione.csv ,,https://web.archive.org/web/20160306190748/http://www.corpoforestale.it/Note_legali,https://web.archive.org/web/20160227081633/http://www.corpoforestale.it:80/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/6358,csv,http://datiallefiamme.it/,Fonte non più aggiornata
-=======
-Nome,Dataset,Licenza,Linklicenza,Fonte,Formato,Note
-Nome del dato, Dataset, Tipo Licenza, "http://www.italiaafuoco.info", csv, Note varie
->>>>>>> parent of ec7727d... Merge pull request #38 from giuragu/master
