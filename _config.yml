@@ -23,6 +23,7 @@ description: Un progetto per raccogliere e diffondere informazioni sugli incendi
 navbar-links:
   Segnala: "http://enketo.ona.io/x/#YVUh"
   Mappe: mappe/
+  Opendata: "opendata/"
 #  Richieste:
 #    - Fabbisogni: "fabbisogni/"
 #    - Cerco Lavoro: "cerco_lavoro/"
@@ -39,8 +40,6 @@ navbar-links:
 #    - Eventi: "eventi/"
      - Blog: "post/"
 #    - Storie: "storie/"
-#    - Vittime: "vittime/"
-#    - Bufale: "bufale/"
 #  Utilità:
 #    - Mappe: "mappe/"
 #    - Dashboard: "dashboard/"
