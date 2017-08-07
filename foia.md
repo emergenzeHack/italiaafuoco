@@ -6,8 +6,8 @@ permalink: /foia/
 
 ### Accesso Civico Generalizzato (FOIA)
 
-Con questa semplice pagina puoi richiedi ufficialmente il dataset dei catasti delle terre bruciate del tuo comune. E' importante perchè in questo modo sensibilizziamo le Pubbliche Amministrazioni ad informare correttamente su quali siano gli incendi avvenuti attorno a noi. Aiutaci a richiedere i dati del tuo comune o di un comune di cui sei interessato ad avere questi dati! Contiamo su di te!   
-Seleziona il comune a cui vuoi inviare la richiesta.
+Con questa semplice pagina puoi richiedere ufficialmente il dataset dei catasti delle terre bruciate del tuo comune. E' importante perchè in questo modo sensibilizziamo le Pubbliche Amministrazioni ad informare correttamente su quali siano gli incendi avvenuti attorno a noi. Aiutaci a richiedere i dati del tuo comune o di un comune a cui sei interessato! Contiamo su di te!
+Seleziona il comune a cui vuoi inviare la richiesta. Verrai ridirezionato al modulo online da compilare con i tuoi dati per l'invio della comunicazione in modo ufficiale.
 
 <form>
 <select name="ipa">
