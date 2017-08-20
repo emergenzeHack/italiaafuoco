@@ -4,11 +4,23 @@ title: FOIA
 permalink: /foia/
 ---
 
-### Accesso Civico Generalizzato (FOIA)
+## Accesso Civico Generalizzato (FOIA)
 
-Con questa semplice pagina puoi richiedere ufficialmente il dataset dei catasti delle terre bruciate del tuo comune. E' importante perchè in questo modo sensibilizziamo le Pubbliche Amministrazioni ad informare correttamente su quali siano gli incendi avvenuti attorno a noi. Ma soprattutto le invitiamo ad applicare esattamente l’art 10 comma 2 della Legge 353/2000 chiedendo l'elenco con relative perimetrazioni dei soprassuoli già percorsi dal fuoco nell'ultimo quinquennio. Una legge poco applicata ma molto incisiva quale deterrente alle possibili speculazioni post-incendio, visti i vincoli resi applicabili solo in caso di definizione ed aggiornamento del catasto incendi.
-Aiutaci a richiedere i dati del tuo comune o di un comune a cui sei interessato! Contiamo su di te!
-Seleziona il comune a cui vuoi inviare la richiesta. Verrai ridirezionato al modulo online da compilare con i tuoi dati per l'invio della comunicazione in modo ufficiale.
+Con questa semplice pagina **puoi creare facilmente la richiesta del dataset dei catasti delle terre bruciate del comune di tuo interesse**. <br>
+E' importante perchè, in questo modo, sensibilizziamo le Pubbliche Amministrazioni ad informare correttamente su quali siano gli incendi avvenuti attorno a noi. Ma soprattutto le invitiamo ad applicare esattamente l’art 10 comma 2 della [Legge 353/2000](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-11-21;353!vig=) **chiedendo l'elenco con relative perimetrazioni dei soprassuoli già percorsi dal fuoco nell'ultimo quinquennio**. Una legge poco applicata ma molto incisiva quale deterrente alle possibili speculazioni post-incendio, visti i vincoli resi applicabili solo in caso di definizione ed aggiornamento del catasto incendi.<br>
+Non ti resta che chiedere! Contiamo su di te!
+<br><br>
+### Come funziona
+<br>Seleziona il comune per il quale vuoi creare la richiesta, clicca quindi su "Crea richiesta". Verrai reindirizzato al modulo online da compilare soltanto con i tuoi dati. Troverai precompilati sia il testo della richiesta sia il destinatario. Andando quindi "Avanti"  potrai visionare una anteprima. 
+<br>Infine "Crea Richiesta Foia" ed ecco il tuo pdf da scaricare. 
+
+### Il successivo invio al Comune
+
+<br>Potrai inviare la richiesta al Comune in alternativa tramite:
+<br>*Trasmissione telematica*: con firma olografica tramite e-mail o PEC all'indirizzo di riferimento della pubblica amministrazione (allegando una copia del documento di riconoscimento valido) oppure con firma digitale (in tal caso non sarà necessario allegare una copia del documento di riconoscimento valido);
+<br>*Trasmissione analogica*: con firma olografica tramite posta o raccomandata o brevi manu al protocollo della pubblica amministrazione (allegando una copia del documento di riconoscimento valido).
+<br>
+<br>
 
 <form>
 <select name="ipa">
