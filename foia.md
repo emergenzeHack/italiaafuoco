@@ -7,7 +7,7 @@ permalink: /foia/
 ## Accesso Civico Generalizzato (FOIA)
 
 Con questa semplice pagina **puoi creare facilmente la richiesta del dataset dei catasti delle terre bruciate del comune di tuo interesse**. <br>
-E' importante perchè, in questo modo, sensibilizziamo le Pubbliche Amministrazioni ad informare correttamente su quali siano gli incendi avvenuti attorno a noi. Ma soprattutto le invitiamo ad applicare esattamente l’art 10 comma 2 della [Legge 353/2000](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-11-21;353!vig=) **chiedendo l'elenco con relative perimetrazioni dei soprassuoli già percorsi dal fuoco nell'ultimo quinquennio**. Una legge poco applicata ma molto incisiva quale deterrente alle possibili speculazioni post-incendio, visti i vincoli resi applicabili solo in caso di definizione ed aggiornamento del catasto incendi.<br>
+E' importante perché, in questo modo, sensibilizziamo le Pubbliche Amministrazioni ad informare correttamente su quali siano gli incendi avvenuti attorno a noi. Ma soprattutto le invitiamo ad applicare esattamente l’art 10 comma 2 della [Legge 353/2000](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-11-21;353!vig=) **chiedendo l'elenco con relative perimetrazioni dei soprassuoli già percorsi dal fuoco nell'ultimo quinquennio**. Una legge poco applicata ma molto incisiva quale deterrente alle possibili speculazioni post-incendio, visti i vincoli resi applicabili solo in caso di definizione ed aggiornamento del catasto incendi.<br>
 Non ti resta che chiedere! Contiamo su di te!
 <br><br>
 **Come funziona**
