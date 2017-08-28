@@ -4,7 +4,6 @@ title: Rielaborazioni e mappe dai dati dell’ex Corpo Forestale dello Stato
 categories: [blog, mappe]
 ---
 
-**Rielaborazioni e mappe dai dati dell’ex Corpo Forestale dello Stato**
 
 **Nel giugno del 2016 diversi incendi divampavano contemporaneamente in tutta la Sicilia**. Da questi avvenimenti era forte l’esigenza di affrontare il tema per comprendere meglio il fenomeno a partire dai dati. Ed è così che dopo alcune ricerche nasceva [datiallefiamme.it](http://datiallefiamme.it/), un'analisi di Giuseppe Ragusa delle **serie storiche regionali basata sul numero degli incendi e sulla superficie boschiva interessata dal 2009 al maggio 2016 in Italia. **
 
