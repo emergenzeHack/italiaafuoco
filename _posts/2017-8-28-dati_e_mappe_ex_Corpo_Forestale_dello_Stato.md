@@ -5,11 +5,10 @@ categories: [blog, mappe]
 ---
 
 
-**Nel giugno del 2016 diversi incendi divampavano contemporaneamente in tutta la Sicilia**. Da questi avvenimenti era forte l’esigenza di affrontare il tema per comprendere meglio il fenomeno a partire dai dati. Ed è così che dopo alcune ricerche nasceva [datiallefiamme.it](http://datiallefiamme.it/), un'analisi di Giuseppe Ragusa delle **serie storiche regionali basata sul numero degli incendi e sulla superficie boschiva interessata dal 2009 al maggio 2016 in Italia. **
+**Nel giugno del 2016 diversi incendi divampavano contemporaneamente in tutta la Sicilia**. Da questi avvenimenti era forte l’esigenza di affrontare il tema per comprendere meglio il fenomeno a partire dai dati. Ed è così che dopo alcune ricerche nasceva [datiallefiamme.it](http://datiallefiamme.it/), un'analisi di Giuseppe Ragusa delle **serie storiche regionali basata sul numero degli incendi e sulla superficie boschiva interessata dal 2009 al maggio 2016 in Italia.**
 
 Nel 2017 questa triste piaga continua ad abbattersi sulle diverse regioni italiane e nell'ambito del progetto italiaafuoco.it Giovan Battista Vitrano ne rielabora i dati ottenendone una nuova [mappa interattiva](http://siciliahub.github.io/mappe/datiallefiamme/index.html#6/41.665/12.239).
 
-Iframe:
 
 <iframe width="100%" height="900px" frameBorder="0" src="http://siciliahub.github.io/mappe/datiallefiamme/index.html"></iframe><p><a href="http://siciliahub.github.io/mappe/datiallefiamme/index.html" title="Incendi boschivi dal 2009 a maggio 2016 in Italia, su base opendata">Visualizza a schermo intero</a></p>
 
@@ -33,7 +32,7 @@ Non è stato possibile aggiornare i dati considerando il periodo giugno-dicembre
 
 **Il caso Sicilia**
 
-Usando i dati (anche questi parziali) del [SIF](http://sif.regione.sicilia.it/webgis/(F(irzcCm7WxrqfWYey-OlaMQQ37noXTit_hXSfPrrF4U-tgCgDcwGVt_6uVkoKqIK0DXD0F6k6wgSXESC3011V7SibgfKcFDmZF6q4KAC2I5VYPRq4rJr4xxWbgHTVsWj3mX4xG3quvDIYzhT5Jdj7u4LLc5g1))/webgis.aspx) (Sistema Informativo Forestale Regione Siciliana) è stata generata una [mappa di densità](http://siciliahub.github.io/mappe/datiallefiamme/incendi_sicilia.html#9/37.5313/14.0353) e un [censimento incendi](http://siciliahub.github.io/mappe/datiallefiamme/incendi_sicilia_aree.html#9/37.5313/14.0353)i per la sola **Regione Sicilia** che, come dicevamo, è la **regione più colpita dagli incendi boschivi. **
+Usando i dati (anche questi parziali) del [SIF](http://sif.regione.sicilia.it/webgis/(F(irzcCm7WxrqfWYey-OlaMQQ37noXTit_hXSfPrrF4U-tgCgDcwGVt_6uVkoKqIK0DXD0F6k6wgSXESC3011V7SibgfKcFDmZF6q4KAC2I5VYPRq4rJr4xxWbgHTVsWj3mX4xG3quvDIYzhT5Jdj7u4LLc5g1))/webgis.aspx) (Sistema Informativo Forestale Regione Siciliana) è stata generata una [mappa di densità](http://siciliahub.github.io/mappe/datiallefiamme/incendi_sicilia.html#9/37.5313/14.0353) e un [censimento incendi](http://siciliahub.github.io/mappe/datiallefiamme/incendi_sicilia_aree.html#9/37.5313/14.0353)i per la sola **Regione Sicilia** che, come dicevamo, è la **regione più colpita dagli incendi boschivi.**
 
 *Mappa di densità*
 
