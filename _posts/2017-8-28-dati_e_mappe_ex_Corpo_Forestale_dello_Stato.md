@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Gli incendi in Italia dal 2009 al 2016: una mappatura dei dati del Corpo Forestale.
+title: Gli incendi in Italia dal 2009 al 2016 - una mappatura dei dati del Corpo Forestale.
 categories: [blog, mappe]
 ---
 
