@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rielaborazioni e mappe dai dati dell’ex Corpo Forestale dello Stato
+title: Gli incendi in Italia dal 2009 al 2016: una mappatura dei dati del Corpo Forestale.
 categories: [blog, mappe]
 ---
 
