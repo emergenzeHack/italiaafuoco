@@ -6,7 +6,7 @@ categories: blog
 
 
 **Parte oggi la campagna di Italia A Fuoco per coinvolgere i cittadini contro la speculazione sui terreni colpiti dagli incendi**.<br>
-Sono più di 560 le notizie di incendi in Italia raccolte da maggio [nella mappa creata da Italia a Fuoco](http://italiaafuoco.info/2017-07-18-new-mappa-notizie/), progetto non profit e open data nato per condividere informazioni utili e verificate sugli incendi che in questi mesi affliggono l’Italia.
+Sono più di 560 le notizie di incendi in Italia raccolte da maggio <a href="_blank" href="http://italiaafuoco.info/2017-07-18-new-mappa-notizie/">nella mappa creata da Italia a Fuoco</a>, progetto non profit e open data nato per condividere informazioni utili e verificate sugli incendi che in questi mesi affliggono l’Italia.
 
 **E dopo ogni incendio, l’incubo speculazione**: i terreni perdono il proprio valore e la loro destinazione urbanistica può cambiare a favore dei costruttori, oppure possono trasformarsi in luoghi di scarico illecito di rifiuti. Solo nel 2016, secondo il rapporto Ecomafia 2017 di Legambiente, sono stati 4635 gli incendi denunciati come reati, con 14 arresti e 96 sequestri.
 
