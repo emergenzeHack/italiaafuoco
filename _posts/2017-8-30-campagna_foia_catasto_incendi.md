@@ -1,3 +1,9 @@
+---
+layout: post
+title: No alle speculazioni sui territori se il cittadino si informa e partecipa
+categories: blog
+---
+
 
 **Parte oggi la campagna di Italia A Fuoco per coinvolgere i cittadini contro la speculazione sui terreni colpiti dagli incendi**.<br>
 Sono più di 560 le notizie di incendi in Italia raccolte da maggio [nella mappa creata da Italia a Fuoco](http://italiaafuoco.info/2017-07-18-new-mappa-notizie/), progetto non profit e open data nato per condividere informazioni utili e verificate sugli incendi che in questi mesi affliggono l’Italia.
