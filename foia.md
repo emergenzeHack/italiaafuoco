@@ -20,7 +20,11 @@ Non ti resta che chiedere! Contiamo su di te!
 <br>*Trasmissione analogica*: tramite posta o raccomandata o brevi manu al protocollo della pubblica amministrazione (sottoscrivendo il modulo e allegando una copia del documento di riconoscimento valido).
 
 **Un'ultima cosa**
-<br>Se invii una richiesta per il tuo comune - una volta fatto - puoi per favore <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSeuzxiMLNOdumO_ln7LqZMeX5BsI632_sceyLJQpu4XrYLdrQ/viewform"><strong>indicarlo qui</strong></a>? In questo modo altri utenti sapranno se per un dato comune è già stata fatta una richiesta.
+
+Anzi due 😉:
+
+- se invii una richiesta per il tuo comune - una volta fatto - puoi per favore <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSeuzxiMLNOdumO_ln7LqZMeX5BsI632_sceyLJQpu4XrYLdrQ/viewform"><strong>indicarlo qui</strong></a>? In questo modo altri utenti sapranno se per un dato comune è già stata fatta una richiesta;
+- quando riceverai i dati sui catasti delle terre bruciate , <strong>inviacele per favore per mail</strong> a <a href="mailto:emergenzehack@gmail.com?subject=Italia a Fuoco:  allego catasto delle terre bruciate>emergenzehack@gmail.com</a>. Così creeremo un catalogo centralizzato dei catasti delle terre bruciate del comune di tuo interesse.
 
 Grazie 😉
 
