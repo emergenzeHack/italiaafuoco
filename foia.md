@@ -18,6 +18,12 @@ Non ti resta che chiedere! Contiamo su di te!
 <br>Potrai inviare la richiesta al Comune in alternativa tramite:
 <br>*Trasmissione telematica*: tramite e-mail o PEC all'indirizzo di riferimento della pubblica amministrazione (sottoscrivendo il modulo e allegando una copia del documento di riconoscimento valido oppure apponendo la firma digitale, in questo caso non è necessario allegare copia del documento di riconoscimento);
 <br>*Trasmissione analogica*: tramite posta o raccomandata o brevi manu al protocollo della pubblica amministrazione (sottoscrivendo il modulo e allegando una copia del documento di riconoscimento valido).
+
+**Un'ultima cosa**
+Se invii una richiesta per il tuo comune - una volta fatto - puoi indicarlo [**qui**](https://docs.google.com/forms/d/e/1FAIpQLSeuzxiMLNOdumO_ln7LqZMeX5BsI632_sceyLJQpu4XrYLdrQ/viewform)? In questo modo altri utenti sapranno se per un dato comune è già stata fatta una richiesta;
+
+Grazie 😉
+
 <br>
 <br>
 
