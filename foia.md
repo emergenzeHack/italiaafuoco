@@ -24,7 +24,7 @@ Non ti resta che chiedere! Contiamo su di te!
 Anzi due 😉:
 
 - se invii una richiesta per il tuo comune - una volta fatto - puoi per favore <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSeuzxiMLNOdumO_ln7LqZMeX5BsI632_sceyLJQpu4XrYLdrQ/viewform"><strong>indicarlo qui</strong></a>? In questo modo altri utenti sapranno se per un dato comune è già stata fatta una richiesta (<a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQHIcaQrXHke2rFSGnydDo6dextEBaxrRL6lbSBNkR2OrQiKje25bOzv7cUsxiLQXSMwXqBkgL94y0W/pubhtml?gid=2018009333&single=true" target="_blank">qui l'elenco attuale</a>);
-- quando riceverai i dati sui catasti delle terre bruciate , <strong>inviacele per favore per email</strong> a <a href="mailto:emergenzehack@gmail.com?subject=[Italia a Fuoco] Allego catasto delle terre bruciate">emergenzehack@gmail.com</a>. Così creeremo un catalogo centralizzato dei catasti delle terre bruciate dei comuni.
+- quando riceverai i dati sui catasti delle terre bruciate , <strong>inviaceli per favore per email</strong> a <a href="mailto:emergenzehack@gmail.com?subject=[Italia a Fuoco] Allego catasto delle terre bruciate">emergenzehack@gmail.com</a>. Così creeremo un catalogo centralizzato dei catasti delle terre bruciate dei comuni.
 
 Grazie
 
