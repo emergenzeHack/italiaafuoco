@@ -7,7 +7,7 @@ categories: [blog, mappe]
 In <a target="_blank" href="http://siciliahub.github.io/mappe/comuniafuoco/index.html#6/42.553/13.865">questa mappa</a> sono evidenziati i **Comuni che hanno registrato notizie di incendi boschivi dal 2012 al 1 settembre 2017**. 
 
 **Clicca sull'immagine**:
-<a href="http://siciliahub.github.io/mappe/comuniafuoco/index.html#6/42.553/13.865"><img src="https://i.imgur.com/LEUVKmt.png" title="source: imgur.com" /></a>
+<a target="_blank" href="http://siciliahub.github.io/mappe/comuniafuoco/index.html#6/42.553/13.865"><img src="https://i.imgur.com/LEUVKmt.png" title="source: imgur.com" /></a>
 
 Complessivamente sono stati mappati 1.232 Comuni e 1.856 notizie di incendi. 
 I dati sono tratti dalle Fire News geolocalizzate e pubblicate da <a target="_blank" href="http://effis.jrc.ec.europa.eu/applications/fire-news/">EFFIS - European Forest Fire Information System</a>.<br>
