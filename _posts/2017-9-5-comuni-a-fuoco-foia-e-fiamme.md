@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Una mappa per FoiaeFiamme - Comuni a fuoco!
+title: Comuni a fuoco. Una mappa per la campagna "FoiaeFiamme"!
 categories: [blog, mappe]
 ---
 
