@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Una mappa per #FoiaeFiamme - Comuni a fuoco
+title: Una mappa per FoiaeFiamme - Comuni a fuoco!
 categories: [blog, mappe]
 ---
 
