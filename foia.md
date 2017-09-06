@@ -1,6 +1,6 @@
 ---
 layout: page
-title: FOIAeFiamme
+title: FoiaeFiamme
 permalink: /foia/
 ---
 
