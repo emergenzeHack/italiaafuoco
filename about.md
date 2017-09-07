@@ -21,7 +21,8 @@ L'idea è di [Matteo Tempestini](https://twitter.com/il_tempe), [Matteo Fortini]
 
 ### Tecnologie
 
-- [Bootstrap](http://getbootstrap.com/)
-- [Glyphicons](http://glyphicons.com)
-- [Jekyll](https://jekyllrb.com/)
-- [Github](http://www.github.com)
+- Il sito è realizzato grazie a [Bootstrap](http://getbootstrap.com/)
+- Le icone sono basate su [Glyphicons](http://glyphicons.com)
+- Il sito è realizzato grazie a [Jekyll](https://jekyllrb.com/)
+- Italiaafuoco è gestito con [Github](http://www.github.com)
+- Italiaafuoco è un fork di [TerremotoCentroItalia](https://www.terremotocentroitalia.info)

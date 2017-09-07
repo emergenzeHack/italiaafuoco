@@ -1,0 +1,8 @@
+- Nome: "Incendi 2009-maggio2016 per regione dal CFS"
+  Dataset: "https://raw.githubusercontent.com/emergenzeHack/italiaafuoco/master/Incendi_2009_maggio_2016_per_regione.csv"
+  Licenza: " "
+  Linklicenza: "https://web.archive.org/web/20160306190748/http://www.corpoforestale.it/Note_legali"
+  Fonte: "https://web.archive.org/web/20160227081633/http://www.corpoforestale.it:80/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/6358"
+  Formato: "csv"
+  Utilizzo: "http://datiallefiamme.it"
+  Note: "Fonte non più aggiornata"
