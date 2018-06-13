@@ -4,9 +4,10 @@ title: La mappa degli incendi 2018 (aggiornata ogni 7 giorni)
 categories: [blog, mappe]
 ---
 
-Riprende la campagna di Italia a Fuoco per informare e sensibilizzare i cittadini sugli incendi boschivi che ogni anno devastano il nostro Paese. 
-*Solo nel 2017 sono andati in fumo oltre 74mila ettari di bosco*, un terzo dei quali in aree protette (vedi il [rapporto di Legambiente](https://www.legambiente.it/contenuti/comunicati/incendi-boschivi-e-record-74965-ettari-bruciati-nei-sette-mesi-del-2017-ecco-l-)). 
-Anche quest'anno mettiamo a disposizione di tutti due importanti strumenti: una *mappa open data attraverso cui monitorare le notizie sugli incendi*, aggiornata settimanalmente (in nero gli incendi degli ultimi 7 giorni). La mappa è stata realizzata in collaborazione con Open data Sicilia usando i dati del centro europeo [Copernicus Ems](http://emergency.copernicus.eu/). 
-E poi, grazie alla collaborazione con il progetto FoiaPop, il servizio [Foia e Fiamme](https://italiaafuoco.info/foia/) attraverso cui *ogni cittadino può generare in pochi click la richiesta di pubblicazione e aggiornamento del catasto delle terre bruciate*, che rappresenta uno dei principali strumenti di prevenzione degli incendi boschivi.
+Riprende la campagna di Italia a Fuoco per informare e sensibilizzare i cittadini sugli incendi boschivi che ogni anno devastano il nostro Paese.<br>
+**Solo nel 2017 sono andati in fumo oltre 74mila ettari di bosco**, un terzo dei quali in aree protette (vedi il [rapporto di Legambiente](https://www.legambiente.it/contenuti/comunicati/incendi-boschivi-e-record-74965-ettari-bruciati-nei-sette-mesi-del-2017-ecco-l-)).<br> 
+
+Anche quest'anno mettiamo a disposizione di tutti due importanti strumenti: una **mappa open data attraverso cui monitorare le notizie sugli incendi**, aggiornata settimanalmente (in nero gli incendi degli ultimi 7 giorni).<br> La mappa è stata realizzata in collaborazione con Open data Sicilia usando i dati del centro europeo [Copernicus Ems](http://emergency.copernicus.eu/).<br>
+E poi, grazie alla collaborazione con il progetto FoiaPop, il servizio [Foia e Fiamme](https://italiaafuoco.info/foia/) attraverso cui **ogni cittadino può generare in pochi click la richiesta di pubblicazione e aggiornamento del catasto delle terre bruciate**, che rappresenta uno dei principali strumenti di prevenzione degli incendi boschivi.<br>
 
 <iframe width="100%" height="900px" frameBorder="0" src="https://umap.openstreetmap.fr/it/map/mappa-delle-news-sugli-incendi-2018_188138?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=caption&captionBar=false"></iframe><p><a href="https://umap.openstreetmap.fr/it/map/mappa-delle-news-sugli-incendi-2018_188138">Visualizza a schermo intero</a></p>
