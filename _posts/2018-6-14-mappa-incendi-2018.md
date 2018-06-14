@@ -1,6 +1,6 @@
 ---
 layout: post
-title: La mappa degli incendi 2018 (aggiornata ogni 7 giorni)
+title: La mappa degli incendi 2018 - aggiornata ogni 7 giorni
 categories: [blog, mappe]
 ---
 
