@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: http://italiaafuoco.info/sitemap.xml
+Sitemap: http://emergenzehack.info/italiaafuoco/sitemap.xml
